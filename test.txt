@@ -1,6 +1,2 @@
 test1
-test2
-test3 master
-test3 dev
-test4 dev
 
